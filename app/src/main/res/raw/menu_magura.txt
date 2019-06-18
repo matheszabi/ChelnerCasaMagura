@@ -1,0 +1,272 @@
+Bar
+	Digestive
+		Campari 50 ml
+		Campari Orange 250 ml
+		Carolans 50 ml
+		Garone Bianco 50 ml
+		Garone Rosso 50 ml
+		Jagermaister 50 mlsheridan's 50 ml
+	Diverse
+		Avans rezervat sala
+		Caserola
+		Penalizare
+		Rezervat sala 1 ora
+		Scad avas la rezervare
+		Taxa toaleta
+	Viskey Cog
+		Alexandrion 5*50 ml
+		Ballantine's 50 ml
+		Brancoveanu 50 ml
+		Courvoisier VSOP 50 ml
+		Hennessy VS 50 ml
+		J&B 50 ml
+		Jack Daniel's 50 ml
+		Jim Bin 50 ml
+		Jonny Walker 50 ml
+		Metaxa 5x50 ml
+		Teacher's 50 ml
+		Vin ars de Jidvei 50 mlsheridan
+	Bere
+		Beck's 0.5 L
+		Bergenbier 0.5 L ST
+		Bergenbier F.A. 0.5 L ST
+		Bergenbier Fresh 0.5 L ST
+		Corona 0.355 L
+		Franziskaner Dunkel 0.5 L
+		Franziskaner Hell 0.5 L
+		Hoegaarden 0.33 L
+		Lefe blonda 0.33 L
+		Lefe Brown 0.33 L
+		Miller Genuie 0.33 L
+		Staropramen Halba 0.4 L
+		Staropramen 0.5 L 
+		Staropramen Dark 0.33 L
+		Staropramen Granat 0.33 L
+		Staropramen Nefiltrat 0.33L
+		Stella Artois 0.5 L
+		Stella Artois F.A. 0.5 L
+		Stella Artois Halba
+		Stella Cidre 0.5 L
+	Cafea
+		Alune 100 gr
+		Capuccino Italian 80 ml
+		Capuccino Vienez 80 ml
+		Ceai fructe 150 ml
+		Ciocolata Calda 150 ml
+		Doppio 80 ml
+		Expresso 40 ml
+		Expresso lung 80 ml
+		Frappe 250 ml
+		Fresh Portocale 200 ml
+		Ice Coffe 200 ml
+		Irish Coffe 150 ml
+		Latte Machiato 150 ml
+		Limonada 500 mlShake 250 ml
+	Racoritoare
+		Apa Plata // Minerala Bucovina 0.5 L
+		Apa Plata // Minerala Bucovina 0.75 L
+		Evervess 0.5 L
+		Ice Tea Lemon Lipton 0.5 L
+		Ice Tea Piersici Lipton 0.5 L
+		Mirinda Portocale 0.5 L
+		Mountain Dew 0.5 L
+		Pepsi Cola 0.5 L
+		Prigat Capsuni Banane 0.25 L
+		Prigat Kiwi 0.25 L
+		Prigat Pere 0.25 L
+		Prigat Piersici 0.25 L
+		Prigat Portocale 0.25 L 
+		Prigat Visine 0.5 L
+		Red Bull 0.25 L
+		Seven up 0.5 L
+		Suc mere 250 ml
+	Vinuri
+		Angeli Cuvee imperial 750 ml
+		Busuioaca de bohotin inedit 0.75 L
+		Feteasca Regala 1 L
+		Feteasca Regala 0.25 L
+		Merlot Rosu 0.25 L
+		Merlot Rosu 0.5 L
+		Merlot Rosu 1 L
+		Rose Mary Sampanie 0.75 L
+		Vin Fiert 0.25 L
+		Vin Fiert 0.5 L
+		Vin Fiert 1 L
+	Vodka Gin Teq
+		Absolut Vodka 50 ml
+		Bacardi 50 ml
+		Finlandia 50 ml
+		Sierra Gold 50 ml
+		Smirnoff 50 ml
+		Stalinskaya 50 ml
+		Tuica Prune fiarta 50 ml
+		Tuica de prune 50 ml
+		Wembley 50 ml
+Bucatarie
+	Gratare
+		Aripioare de pui la gratar 200 gr
+		Carnati casa 200 gr
+		Ceafa de porc 200 gr
+		Cotlet porc 200 gr
+		Ficatei de pui la gratar 200 gr
+		Frigarui asortate la gratar 200 gr
+		Mici 3 buc cu cartofi prajiti 180 / 150 gr
+		Mici 5 buc cu cartofi prajiti 300 / 150 gr
+		Mixt Gril 450 / 150 gratar
+		Muschi de vita la gratar 200 gr
+		Piept de pui la gratar 200 gr
+		Pulpe de pui la gratar 200 gr
+	Ingrediente
+		Ardei Iute 30 gr
+		Cascaval 50 gr
+		Dulceata 100 gr
+		Hrean 50 gr
+		Ketchup Pikant 50 gr
+		Ketchup dulce 50 gr
+		Lamaie 150 gr
+		Maioneza 50 gr
+		Masline 100 gr
+		Mujdei Usturoi 50 gr
+		Mustar 50 gr
+		Paine 150 gr
+		Samtana 50 gr
+		Sos Italian 50 gr
+		Sos tartar 50 gr
+	Mancaruiri gatite
+		Ficatei de pui sote 200 gr
+		Pomana porcului cu mamaliguta 250/ 150
+		Sarmalute cu mamaliguta si carnat 300/100 gr
+		Tocana de oaie cu mam. 250/150 gr
+		Tocanita de pui cu mam. 250/150 gr
+		Tocanita de vitel cu mam. 250/150 gr
+		Tochitura casa magura 250/150 gr
+	Pachet
+		Ciorba de burta (P) 300 /150 gr p.
+		Ciorba de fasole boabe (P) cu ciolan 50 gr 350 ml
+		Ciorba de legume (P) 450 ml
+		Ciorba de perisoare (P)  50 gr / 350 ml
+		Ciorba de porc (P) Ardeleneasca 50 gr / 350 ml
+		Ciorba de pui (P) 50 gr / 350 ml
+		Ciorba de vacuta (p) 50 gr /350 ml
+		Supa cu galuste 60 gr / 350 ml
+		Supa cu taitei 60 gr / 350 ml
+	Paste
+		Rigatoni in forno 400 gr
+		Rigatoni mantecati 400 gr
+		Spag. Boloneze 350 gr
+		Pag.Carbonar. 350 gr
+		Tagliatele fetuicine 350 gr
+		Tagliatele pradiso 400 gr
+	Peste
+		Pastrav la gratar cu mamaliguta 250 gr
+		Pastrav prajit 180 gr
+		Salau la gratar cu sos de salvie 180 gr
+		Salau prajit cu lamaie 180 gr
+	Pizza
+		Pizza Calzone 400 gr
+		Pizza Capricioasa 400 gr
+		Pizza Casa Magura 600 gr
+		Pizza Diavolo 400 gr
+		Pizza Focaccia
+		Pizza Funghi 400 gr
+		Pizza Hawai 400 gr
+		Pizza Junior
+		Pizza Proschuto e Funghi 400 gr
+		Pizza Proschuto 400 gr
+		Pizza Quatro Stagioni 400 gr
+		Pizza Sole 400 gr
+		Pizza Tono 400 gr
+		Pizza Vegetariana 400 gr
+	Salate
+		Salata Asortata Pr. 150 gr
+		Salata de ardei copt 150 gr
+		Salata de castraveti cu ceapa 150 gr
+		Salata de castraveti murati 150 gr
+		Salata de ceapa rosie 100 gr
+		Salata de gogosari 150 gr
+		Salata de muraturi asortate 150 gr
+		Salata de rosii 150 gr
+		Salata de varza 150 gr
+	Specialitati
+		Antricot vita a la sibiu 160 / 150 gr
+		Escalop porc 300 gr
+		Gordon bleu 250 gr
+		Muschi de porc cu crochete de cascaval S
+		Muschi de porc umplut 250 gr
+		Muschi de porc impletit 450 gr
+		Muschi porc sibian 250 gr
+		Muschi vita ciobanaesc 450 gr
+		Piept de pui cu orez si ciuperci la cuptor 45
+		Piept de pui la cuptor cu cartofi 450 gr
+		Piept de pui umplut cu ficatei 250 gr
+		Snitel porc 200 gr
+		Snitei pui 200 gr
+		Snitel vita
+		Specialitate din piept de pui si porc
+		Traista ciobanului 450 gr
+	Aperitive
+		Cascaval pane 120 gr
+		Ciuperci umplute 350 gr
+		Gust.Calda 400 gr
+		Gust.Rece. Trad. 400 gr
+		Mamaliguta BR+SM (150/100/100gr)
+		Mamaliguta cu branza si costita la cuptor 150
+		Masa servita
+		Meniu 8 martie
+		Meniu Botez
+		Meniu cununie
+		Meniu liceu
+		Meniu Nuggets 100/80gr
+		Meniu Parastas
+		Meniu party 100/100 gr
+		Meniu special
+		Meniul zilei
+		Meniul zilei special
+		Meniul zilei terasa
+		Omleta taraneasca
+		Platou branzeturi 300gr
+		Platou festiv
+		Salata beuf
+		Salata caprese 250 gr
+		Salata crud cu pui 350 gr
+		Salata cruditati 300 gr
+		Salata vinete cu rosii 300 gr
+		Salata greceasca cu focaccia 350 gr
+		Salata taraneasca 400 gr
+	Ciorbe / Supe
+		Ciorba de burta 300/150 gr
+		Ciorba de perisoare 400/60
+		Ciorba de pui taraneasca
+		Ciorba de vacuta 400/50 gr
+		Ciorba fasole + ciolan 400/50 gr
+		Ciorba legume 400 gr
+		Ciorba porc Ard. 400/50 gr
+		Supa cu galuste 350/ 100 gr
+		Supa cu taitei 350 / 100 ml
+	Deserturi
+		Ananas caramel 150 gr
+		Ananas cu frisca si Ingh. 180 gr
+		Clatite cu branza de vaci si stafide 200 gr
+		Clatite cu branza la cuptor 200 gr
+		Clatite cu ciocolata 150 gr
+		Clatite cu gem 150 gr
+		Clatite cu ingh. 150 gr
+		Crema zahar ars 150 gr
+		Inghetata asortata 150 gr
+		Papanas 200 gr
+		Salata de fructe 150 gr
+	Garnituri
+		Cartofi aurii 200 gr
+		Cartofi la gratar 200 gr
+		Cartofi natur 200 gr
+		Cartofi prajiti 200 gr
+		Cartofi taranesti 200gr
+		Ciuperci la gratar 200 gr
+		Ciuperci sote 200 gr
+		Iahine de fasole 200 gr
+		Legume la gratar 200 gr
+		Legume mixte 200 gr
+		Mamaliguta 200 gr
+		Pilaf de orez cu ciuperci 200 gr
+		Piure cartofi 200 gr
+		Varza calita 200 gr
